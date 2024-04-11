@@ -1,0 +1,3 @@
+[submodule "RasterFairy"]
+	path = RasterFairy
+	url = https://github.com/Quasimondo/RasterFairy.git
